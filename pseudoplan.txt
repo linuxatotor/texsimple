@@ -1,0 +1,96 @@
+4.2 Le plan et le contenu du rapport
+Votre rapport doit contenir les informations suivantes :
+I - La recherche du stage :
+ Comment le stagiaire a-t-il procédé ?
+ Analyse des résultats de cette recherche (refus, acceptation, ..)
+II – L’environnement du stage
+1. description objective de l'entreprise :
+L’entreprise en général
+ son secteur d'activité : ses principaux concurrents, le marché et son évolution...
+ ses métiers,
+ son chiffre d'affaires : détails et évolution...
+ ses effectifs : détails, évolution...
+ son organisation interne (organigramme, départements, communication et circulation de
+l'information...),
+ ses relations avec l'extérieur (appartient-elle à un groupe ?, ses clients, ses fournisseurs, les
+associations professionnelles, l’Administration...)
+L'entreprise et son informatique :
+ outils, technologies et méthodes qu'elle utilise (logiciel et matériel),
+ informatique interne ou externe ?
+ son système d'information : son architecture, informatique décisionnelle, ERP, outils de
+travail collaboratifs, ...
+2. Votre observation personnelle
+ les relations humaines au sein de l'entreprise :
+ relations de la direction avec le reste du personnel,
+ relations entre les services, départements, divisions…
+ relations entre les différentes catégories de personnel et les différents niveaux
+hiérarchiques (cadres/non cadres…),
+ synthèse de vos observations personnelles.
+3. l'intégration du stagiaire dans l'entreprise :
+ comment s'est-elle faite ?
+ ce qui l'a facilitée ?
+ ce qui l'a rendue plus difficile ?
+ comment s'est-elle manifestée dans la vie quotidienne ?
+EISTI Stage 2A ou 3A
+Page 7 sur 12
+III - Les apports techniques :
+1. description technique (Analyse et Implémentation)
+ environnements et outils (systèmes d'exploitation, réseaux, langages, SGBDs,...),
+ un cahier de charges et des spécifications générales et détaillées,
+ une analyse UML complète,
+ explication détaillée des principaux algorithmes en français et en langage algorithmique (se
+conférer aux études de cas et projets informatiques),
+ les sources de programmation qui doivent être commentés comme pour les projets (ils
+peuvent être en annexes),
+ faire apparaître pour la programmation les techniques avancées utilisées,
+ si un langage ou un outil informatique non vu pendant l'année ont été utilisés, on doit les
+décrire et le comparer à d'autres outils connus.
+2. Organisation
+ équipe au sein de laquelle le stage a été effectué,
+ planning prévisionnel,
+ planning réel.
+3. Auto-évaluation
+ Comment saviez-vous que vous respectiez les délais ?
+ Comment saviez-vous que vous étiez sur la bonne voie ?
+ Comment pouviez-vous évaluer la qualité de votre travail ?
+ En quoi avez-vous fait preuve d’autonomie ?
+ Quel « plus » avez-vous apporté à l’entreprise ?
+4. Résultats et prolongements possibles
+ Savez-vous ce qu'est devenu votre développement (mis en production, repris par un autre
+stagiaire, ...)
+ Restez-vous en contact avec l'entreprise ?
+IV - Le stage dans la formation :
+ Ce qui dans votre formation vous a été le plus utile
+ Ce qui dans le stage vous prépare à la suite de votre formation.
+Précisons que si l'ensemble de ces informations nous paraissent essentielles pour rendre compte du stage, le
+nombre de rubriques ainsi que le détail et l'ordre de ces dernières ne sont donnés qu'à titre indicatif : l'étudiant peut
+choisir d'organiser son compte rendu différemment.
+4.3 La présentation du rapport
+« La dernière chose qu’on trouve en faisant un ouvrage est de savoir celle qu’il faut mettre la première »
+(Blaise Pascal)
+EISTI Stage 2A ou 3A
+Page 8 sur 12
+Vous avez rassemblé le contenu de votre rapport.
+Il vous reste maintenant à le mettre en forme, à le présenter.
+4.3.1 Le plan du rapport
+1) La page couverture doit donner toutes les indications nécessaires pour situer l'auteur, l'école, l'entreprise,
+l'année, la date... Pour faciliter le classement et la consultation des rapports, nous vous demandons de
+reproduire le modèle indiqué en annexe.
+2) Il est d'usage de prévoir une page de remerciements. A votre discrétion.
+3) Un sommaire détaillé doit présenter chacune des parties de votre rapport avec mention des numéros de page,
+ce qui implique de ne pas oublier la pagination.
+4) Une introduction générale de 1 à 2 pages, véritable "fil d'Ariane", doit permettre au lecteur de s'orienter dans
+votre rapport.
+5) Vous présentez ensuite, dans l'ordre qui vous paraît le plus cohérent, les différents chapitres recensés plus haut.
+6) en conclusion, vous portez un regard critique sur votre travail et vous pouvez indiquer les perspectives nouvelles
+qui s'ouvrent à vous à l'issue de ce stage (orientation professionnelle, intérêt pour telle matière ou telle option,
+choix du prochain stage...), les compléments et approfondissements que vous avez réalisés depuis ou que vous
+envisagez (lectures, démarches, état du projet..).
+7) Prévoyez à la fin du rapport une page « Bibliographie » ou « Références », dans laquelle vous citerez, de façon
+précise et détaillée, toutes vos sources (ouvrages, articles, sites Internet, documents ou logiciels, avec indication
+précise de l'auteur, du titre, de la date, de l'éditeur, de la revue ou du site internet).
+8) Reportez en ANNEXE :
+- Les informations complémentaires, brochures, documents sur l'entreprise, les logiciels et matériels utilisés. Là
+encore, pas de remplissage. Sélectionnez soigneusement les documents qui vous paraissent utiles à la
+compréhension de votre lecteur.
+- Les produits réalisés. Vous prendrez soin de les référencer pour que le lecteur puisse les retrouver facilement
